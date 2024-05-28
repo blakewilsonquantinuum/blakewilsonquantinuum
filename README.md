@@ -2,7 +2,6 @@
 - 💞️ I’m looking to collaborate on quantum ML software!
 - 📫 How to reach me: blake.wilson@quantinuum.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 blakewilsonquantinuum/blakewilsonquantinuum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
